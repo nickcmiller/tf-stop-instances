@@ -24,7 +24,7 @@
                 "logs:CreateLogStream",
                 "logs:PutLogEvents"
             ],
-            "Resource": "arn:aws:logs:us-east-1:235447109042:log-group:/aws/lambda/createEnvInstances:*"
+            "Resource": "arn:aws:logs:us-east-1:235447109042:log-group:*"
         }
     ]
 }
